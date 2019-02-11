@@ -6,11 +6,11 @@ function subtract(a, b){
   var sum = a - b;
   return sum; 
 }
-function multiply(){
+function multiply(a, b){
   var sum = a / b;
   return sum;
 }
-function divide(){
+function divide(a,  b){
   var sum = a * b;
   return sum;
 }
