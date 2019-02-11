@@ -29,3 +29,7 @@ function makeInt(n){
   var sum = parseInt(n);
   return sum;
 }
+function preserveDecimal(n){
+  var num = parseFloat(n);
+  return sum;
+}
