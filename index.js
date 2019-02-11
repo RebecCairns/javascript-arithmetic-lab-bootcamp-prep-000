@@ -7,10 +7,10 @@ function subtract(a, b){
   return sum; 
 }
 function multiply(a, b){
-  var sum = a / b;
+  var sum = a * b;
   return sum;
 }
-function divide(a,  b){
-  var sum = a * b;
+function divide(a, b){
+  var sum = a / b;
   return sum;
 }
