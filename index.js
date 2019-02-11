@@ -30,6 +30,8 @@ function makeInt(n){
   return sum;
 }
 function preserveDecimal(n){
-  var num = parseFloat(n);
+  var sum = parseFloat(n);
   return sum;
 }
+//makeInt(n) 9000 but needs 0 
+//preserveDecimal(n) sum is not defined
