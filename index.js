@@ -26,7 +26,7 @@ function dec(a){
   return sum;
 }
 function makeInt(n){
-  var sum = parseInt(n);
+  var sum = parseInt(n, 10);
   return sum;
 }
 function preserveDecimal(n){
