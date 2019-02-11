@@ -25,3 +25,7 @@ function dec(a){
   sum--;
   return sum;
 }
+function makeInt(n){
+  var sum = parseInt(n);
+  return sum;
+}
